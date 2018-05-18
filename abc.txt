@@ -1,3 +1,9 @@
+
+function foobar()
+{
+	print ha ha ha
+}
+
 asvchvj
 vcds
 vds
